@@ -55,5 +55,4 @@ suffisso_codici.append(cod_1)
 suffisso_codici.append(cod_2)
 suffisso_codici.append(cod_3)
 print(suffisso_codici)
-
-
+    

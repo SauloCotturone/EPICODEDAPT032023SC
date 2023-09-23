@@ -55,4 +55,39 @@ suffisso_codici.append(cod_1)
 suffisso_codici.append(cod_2)
 suffisso_codici.append(cod_3)
 print(suffisso_codici)
-    
+
+
+## 2.8
+set_growth = {"Tesla", "Shopify", "Block", "Etsy", "MercadoLibre", "Netflix", 
+              "Amazon","Meta Platforms", "Salesforce", "Alphabet"}
+set_value  = {"Pfizer", "Johnson & Johnson", "JPMorgan Chase & Co.", "Wells Fargo & Co.",
+              "Verizon Communications", "BP PLC", "LyondellBasell Industries", "MetLife",
+              "Interactive Brokers Group", "Intel"}
+set_tech   = {"Apple", "Microsoft", "Alphabet", "Amazon", "NVIDIA", "Meta Platforms",
+              "Tesla", "Alibaba", "Salesforce", "Advanced Micro Devices", "Intel",
+              "PayPal", "Activision Blizzard", "Electronic Arts", "The Trade Desk",
+              "Zillow Group", "Match Group", "Yelp"}
+set_healthcare = {"UnitedHealth Group", "Johnson & Johnson", "Eli Lilly & Co.",
+                  "Novo Nordisk", "Merck & Co.", "Roche Holding", "Pfizer",
+                  "Thermo Fisher Scientific", "Abbott Laboratories"}
+
+azioni_growth_value = set_growth | set_value
+print(azioni_growth_value)
+
+azioni_tech_growth = set_tech & set_growth
+print(azioni_tech_growth)
+
+azioni_tech_unione_value = set_value | set_tech
+print(azioni_tech_unione_value)
+
+azioni_helath_novalue = set_healthcare - set_value
+print(azioni_helath_novalue)
+
+azioni_tech_health = set_healthcare & set_value
+print(azioni_tech_health)
+
+azioni_tech_inters_value = set_tech & set_value
+azioni_tech_growth_value = azioni_tech_inters_value | azioni_tech_growth
+print(azioni_tech_growth_value)
+
+

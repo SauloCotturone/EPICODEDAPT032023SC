@@ -70,7 +70,8 @@ sulle locazioni senza indicazione di continente)
 """
 def confronto_indicatori(df, continente_1, continente_2, parametro):
     
-    somma_casi_totali = float(casi_totali.sum())
+    somma_casi_totali = float(tot_casi.sum())
+    print(somma_casi_totali)
     
     continente_1 = df_continenti[df_continenti['continent'] == 'North America']
     nome_continente_1 = continente_1['continent'].iloc[0]
@@ -133,8 +134,14 @@ che si concentri solo sulle differenze esistenti tra Europa, Sud America e Ocean
 """
 def analisi_continente(df, continenti, casi, vaccini):
     risultati = {}
-    #### calcolo il totale dei casi
+    #### Definisco il data frame
     df_continenti = df.loc[df["continent"].notna(), ["continent", "date","total_cases", "total_vaccinations"]]
+    #### Periodo di osservazione
+    start_osserv = df_continenti["date"].min()
+    end_osserv = df_continenti["date"].max()
+    periodo_osserv = f"Il periodo di osservazione va dal {start_osserv} al {end_osserv}"
+    print(periodo_osserv)
+    #### calcolo il totale dei casi
     diff_tot_casi = df_continenti[casi].diff()
     tot_casi = diff_tot_casi.sum()
     risultati["tot_casi"] = tot_casi
@@ -180,10 +187,21 @@ risultato_analisi_continenti = analisi_continente(df, continenti_target, "total_
 ### Stampo i risultati
 for chiave, valore in risultato_analisi_continenti.items():
     print(f"{chiave}: {valore}")
-
-
-
     
     
+analisi_report = f"Dall'analisi perpetrata abbiamo raccolto le seguenti evidenze:\n"
+analisi_report += "nell'arco temporale delle osservazioni (dal 2020-01-01 al 2023-10-05)\n"
+analisi_report += "sono stati registrati un numero totale di casi a livello globale pari a 771 mln ca\n"
+analisi_report += "ed una campagna di vaccinazione che conta più di 10 mlrd ca di vaccini.\n"
+analisi_report += "Confrontando Europa, Sud America e Oceania possiamo notare che il numero totale dei casi\n"
+analisi_report += "per l'Europa è stato maggiore rispetto agli altri continenti in analisi, con 250 mln ca di casi\n"
+analisi_report += "pari a circa 1/3 del totale globale.\n"
+analisi_report += "Parallelamente, anche lato vaccinazioni, l'Europa rispetto a Sud America ed Oceania\n"  
+analisi_report += "ha registrato più di 1 mlrd ca di vaccini pari al 12% ca delle vaccinazioni globali\n"  
+analisi_report += "Analizzando il rapporto casi/vaccini l'Europa e l'Oceania registrano un indicatore\n"
+analisi_report += "simile, pari a 20 casi ca ogni vaccino, mentre il Su America mostra un dato di conversione\n"  
+analisi_report += "dei vaccini più positivo, il quale, in maniera puramente speculativa, potrebbe indicare\n"
+analisi_report += "una maggiore efficacia della campagna di vaccinazione o una registrazione meno puntuale\n"
+analisi_report += "dei casi rispetto agli altri continenti."
 
-    
+print(analisi_report)

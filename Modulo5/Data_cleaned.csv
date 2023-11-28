@@ -1,0 +1,1014 @@
+﻿ORDINE;DATA;VENDITORE;CAT;PROD;PREZZO;QUANTITA';REGIONI
+736;21/01/2020;Zucchi Livio;Auto;Jack;3.4;19;Veneto
+597;17/02/2020;Zucchi Livio;Moto;Annef;5;9;Abruzzo
+395;19/02/2020;Zucchi Livio;Moto;Bour;12;19;Valle d'Aosta
+269;29/02/2020;Zucchi Livio;Moto;Annef;5;8;Puglia
+399;08/03/2020;Zucchi Livio;Auto;Jack;3.4;19;Calabria
+416;05/04/2020;Zucchi Livio;Moto;Annef;5;17;Veneto
+795;09/04/2020;Zucchi Livio;Moto;Annef;5;1;Valle d'Aosta
+745;15/04/2020;Zucchi Livio;Moto;Annef;5;14;Lombardia
+74;20/04/2020;Zucchi Livio;Auto;Jack;3.4;2;Umbria
+69;29/04/2020;Zucchi Livio;Auto;Jack;3.4;2;Puglia
+533;11/06/2020;Zucchi Livio;Moto;Annef;5;19;Trentino-Alto-Adige
+486;21/06/2020;Zucchi Livio;Auto;Jack;3.4;0;Marche
+788;23/06/2020;Zucchi Livio;Auto;Jack;3.4;0;Piemonte
+940;10/07/2020;Zucchi Livio;Auto;Jack;3.4;14;Campania
+255;22/07/2020;Zucchi Livio;Moto;Cele;6.5;18;Valle d'Aosta
+796;25/07/2020;Zucchi Livio;Moto;Bour;12;16;Veneto
+333;28/07/2020;Zucchi Livio;Moto;Annef;5;17;Trentino Alto Adige
+622;31/07/2020;Zucchi Livio;Moto;Annef;5;14;Friuli Venezia Giulia
+58;03/08/2020;Zucchi Livio;Auto;Assad;8;0;Basilicata
+596;21/08/2020;Zucchi Livio;Moto;Annef;5;10;Veneto
+760;27/08/2020;Zucchi Livio;Auto;Jack;3.4;3;Campania
+834;01/09/2020;Zucchi Livio;Moto;Annef;5;20;Umbria
+659;10/09/2020;Zucchi Livio;Auto;Jack;3.4;6;Calabria
+914;20/09/2020;Zucchi Livio;Auto;Jack;3.4;10;Umbria
+594;24/09/2020;Zucchi Livio;Moto;Annef;5;19;Umbria
+63;07/10/2020;Zucchi Livio;Moto;Annef;5;7;Lazio
+599;15/10/2020;Zucchi Livio;Auto;Jack;3.4;7;Calabria
+317;22/10/2020;Zucchi Livio;Moto;Annef;5;9;Abruzzo
+199;23/10/2020;Zucchi Livio;Moto;Cele;6.5;7;Calabria
+372;23/10/2020;Zucchi Livio;Moto;Annef;5;8;Toscana
+65;27/10/2020;Zucchi Livio;Moto;Annef;5;18;Lombardia
+816;29/10/2020;Zucchi Livio;Moto;Annef;5;6;Veneto
+508;17/11/2020;Zucchi Livio;Auto;Pium;10.78;17;Piemonte
+412;22/11/2020;Zucchi Livio;Auto;Assad;8;7;Toscana
+892;23/11/2020;Zucchi Livio;Moto;Annef;5;17;Toscana
+169;01/12/2020;Zucchi Livio;Auto;Jack;3.4;20;Puglia
+130;27/12/2020;Zucchi Livio;Moto;Annef;5;16;Sardegna
+567;11/01/2021;Zucchi Livio;Auto;Pium;10.78;0;Molise
+29;14/01/2021;Zucchi Livio;Auto;Jack;3.4;6;Sicilia
+336;12/02/2021;Zucchi Livio;Moto;Cele;6.5;2;Veneto
+911;27/05/2021;Zucchi Livio;Auto;Jack;3.4;13;Sicilia
+456;07/06/2021;Zucchi Livio;Auto;Jack;3.4;7;Veneto
+461;10/06/2021;Zucchi Livio;Moto;Annef;5;16;Emilia Romagna
+993;30/06/2021;Zucchi Livio;Moto;Annef;5;15;Trentino Alto Adige
+765;20/07/2021;Zucchi Livio;Auto;Assad;8;1;Lombardia
+825;26/07/2021;Zucchi Livio;Auto;Assad;8;15;Lombardia
+380;13/08/2021;Zucchi Livio;Moto;Annef;5;11;Campania
+983;18/08/2021;Zucchi Livio;Moto;Cele;6.5;14;Lazio
+542;21/08/2021;Zucchi Livio;Auto;Jack;3.4;4;Friuli Venezia Giulia
+471;04/09/2021;Zucchi Livio;Auto;Assad;8;2;Sicilia
+861;14/09/2021;Zucchi Livio;Moto;Pium;10.45;7;Emilia Romagna
+303;16/09/2021;Zucchi Livio;Moto;Annef;5;18;Lazio
+844;19/10/2021;Zucchi Livio;Moto;Annef;5;20;Liguria
+286;24/10/2021;Zucchi Livio;Moto;Annef;5;8;Marche
+729;07/11/2021;Zucchi Livio;Moto;Pium;10.45;1;Puglia
+592;24/12/2021;Zucchi Livio;Moto;Annef;5;16;Toscana
+978;28/12/2021;Zucchi Livio;Moto;Annef;5;16;Basilicata
+439;07/01/2022;Zucchi Livio;Auto;Jack;3.4;10;Calabria
+906;24/01/2022;Zucchi Livio;Moto;Annef;5;5;Marche
+998;03/02/2022;Zucchi Livio;Auto;Jack;3.4;13;Basilicata
+144;21/02/2022;Zucchi Livio;Moto;Cele;6.5;13;Liguria
+960;24/02/2022;Zucchi Livio;Auto;Jack;3.4;2;Campania
+732;27/02/2022;Zucchi Livio;Auto;Jack;3.4;20;Toscana
+488;09/03/2022;Zucchi Livio;Auto;Jack;3.4;10;Piemonte
+94;13/03/2022;Zucchi Livio;Auto;Pium;10.78;10;Umbria
+133;04/04/2022;Zucchi Livio;Auto;Jack;3.4;20;Trentino Alto Adige
+748;04/04/2022;Zucchi Livio;Moto;Annef;5;16;Piemonte
+1009;07/04/2022;Zucchi Livio;Moto;Annef;5;16;Puglia
+244;23/04/2022;Zucchi Livio;Moto;Annef;5;20;Liguria
+454;23/05/2022;Zucchi Livio;Auto;Jack;3.4;3;Umbria
+824;31/05/2022;Zucchi Livio;Auto;Assad;8;3;Liguria
+411;11/06/2022;Zucchi Livio;Auto;Assad;8;5;Sicilia
+868;24/06/2022;Zucchi Livio;Auto;Pium;10.78;5;Piemonte
+108;25/06/2022;Zucchi Livio;Moto;Annef;5;3;Piemonte
+853;01/07/2022;Zucchi Livio;Moto;Cele;6.5;14;Trentino Alto Adige
+1018;19/07/2022;Zucchi Livio;Auto;Jack;3.4;11;Basilicata
+111;02/08/2022;Zucchi Livio;Auto;Jack;3.4;20;Sicilia
+904;02/08/2022;Zucchi Livio;Auto;Pium;10.78;10;Liguria
+975;04/08/2022;Zucchi Livio;Auto;Jack;3.4;19;Valle d'Aosta
+140;25/08/2022;Zucchi Livio;Moto;Annef;5;5;Campania
+879;30/08/2022;Zucchi Livio;Auto;Jack;3.4;20;Calabria
+817;31/08/2022;Zucchi Livio;Moto;Annef;5;10;Abruzzo
+907;12/09/2022;Zucchi Livio;Moto;Cele;6.5;18;Molise
+223;20/09/2022;Zucchi Livio;Moto;Annef;5;4;Lazio
+883;27/09/2022;Zucchi Livio;Auto;Assad;8;3;Lazio
+47;04/10/2022;Zucchi Livio;Auto;Pium;10.78;6;Molise
+16;14/10/2022;Zucchi Livio;Auto;Jack;3.4;10;Campania
+352;01/11/2022;Zucchi Livio;Auto;Assad;8;6;Toscana
+383;06/11/2022;Zucchi Livio;Auto;Jack;3.4;4;Lazio
+818;13/11/2022;Zucchi Livio;Auto;Jack;3.4;13;Basilicata
+653;30/12/2022;Zucchi Livio;Moto;Annef;5;5;Trentino Alto Adige
+339;01/01/2020;Ungori Alba;Auto;Jack;3.4;5;Calabria
+850;04/01/2020;Ungori Alba;Moto;Cele;6.5;4;Sardegna
+684;06/01/2020;Ungori Alba;Moto;Annef;5;11;Liguria
+205;13/02/2020;Ungori Alba;Moto;Cele;6.5;7;Lombardia
+591;25/02/2020;Ungori Alba;Moto;Annef;5;11;Sicilia
+700;31/03/2020;Ungori Alba;Auto;Jack;3.4;16;Campania
+277;03/04/2020;Ungori Alba;Moto;Annef;5;1;Abruzzo
+537;12/04/2020;Ungori Alba;Moto;Annef;5;13;Abruzzo
+870;12/04/2020;Ungori Alba;Auto;Jack;3.4;18;Sardegna
+427;15/04/2020;Ungori Alba;Auto;Jack;3.4;19;Molise
+614;30/04/2020;Ungori Alba;Auto;Jack;3.4;8;Umbria
+539;09/05/2020;Ungori Alba;Moto;Annef;5;0;Calabria
+138;23/05/2020;Ungori Alba;Moto;Pium;10.45;13;Basilicata
+337;01/07/2020;Ungori Alba;Auto;Jack;3.4;20;Abruzzo
+71;20/08/2020;Ungori Alba;Moto;Annef;5;7;Sicilia
+80;25/08/2020;Ungori Alba;Moto;Cele;6.5;10;Campania
+641;11/10/2020;Ungori Alba;Auto;Jack;3.4;17;Emilia Romagna
+933;13/10/2020;Ungori Alba;Moto;Annef;5;2;Trentino Alto Adige
+397;28/10/2020;Ungori Alba;Auto;Jack;3.4;16;Abruzzo
+510;30/10/2020;Ungori Alba;Auto;Jack;3.4;20;Sardegna
+821;30/10/2020;Ungori Alba;Auto;Jack;3.4;18;Emilia Romagna
+703;18/11/2020;Ungori Alba;Auto;Jack;3.4;16;Lazio
+366;24/11/2020;Ungori Alba;Moto;Annef;5;19;Marche
+650;28/11/2020;Ungori Alba;Moto;Annef;5;8;Sardegna
+695;22/12/2020;Ungori Alba;Moto;Annef;5;12;Valle d'Aosta
+758;23/12/2020;Ungori Alba;Moto;Annef;5;5;Basilicata
+183;30/01/2021;Ungori Alba;Moto;Annef;5;7;Lazio
+540;30/01/2021;Ungori Alba;Auto;Jack;3.4;3;Campania
+212;12/02/2021;Ungori Alba;Moto;Annef;5;11;Toscana
+761;16/02/2021;Ungori Alba;Auto;Jack;3.4;5;Emilia Romagna
+669;22/03/2021;Ungori Alba;Auto;Jack;3.4;11;Puglia
+981;22/03/2021;Ungori Alba;Auto;Blacky;4;15;Emilia Romagna
+424;04/04/2021;Ungori Alba;Auto;Jack;3.4;14;Liguria
+996;11/04/2021;Ungori Alba;Auto;Jack;3.4;11;Veneto
+483;24/04/2021;Ungori Alba;Auto;Jack;3.4;2;Lazio
+1015;25/04/2021;Ungori Alba;Moto;Annef;5;14;Valle d'Aosta
+628;04/05/2021;Ungori Alba;Moto;Annef;5;9;Piemonte
+860;05/05/2021;Ungori Alba;Moto;Maio;12;9;Campania
+750;08/05/2021;Ungori Alba;Moto;Bour;12;2;Sardegna
+678;22/06/2021;Ungori Alba;Auto;Jack;3.4;14;Basilicata
+966;22/06/2021;Ungori Alba;Auto;Jack;3.4;2;Marche
+757;04/07/2021;Ungori Alba;Moto;Annef;5;12;Abruzzo
+161;24/07/2021;Ungori Alba;Moto;Cele;6.5;4;Emilia Romagna
+198;31/07/2021;Ungori Alba;Moto;Annef;5;20;Basilicata
+661;02/09/2021;Ungori Alba;Moto;Annef;5;7;Emilia Romagna
+27;14/09/2021;Ungori Alba;Moto;Cele;6.5;5;Puglia
+131;20/09/2021;Ungori Alba;Moto;Annef;5;1;Sicilia
+368;22/09/2021;Ungori Alba;Auto;Jack;3.4;13;Piemonte
+932;23/09/2021;Ungori Alba;Moto;Cele;6.5;16;Toscana
+734;19/10/2021;Ungori Alba;Moto;Cele;6.5;0;Umbria
+878;28/10/2021;Ungori Alba;Auto;Jack;3.4;11;Basilicata
+852;30/10/2021;Ungori Alba;Moto;Annef;5;1;Toscana
+98;08/11/2021;Ungori Alba;Moto;Annef;5;13;Basilicata
+602;18/11/2021;Ungori Alba;Moto;Annef;5;20;Friuli Venezia Giulia
+800;30/11/2021;Ungori Alba;Moto;Maio;12;11;Campania
+282;22/12/2021;Ungori Alba;Auto;Jack;3.4;18;Friuli Venezia Giulia
+481;07/01/2022;Ungori Alba;Auto;Jack;3.4;12;Emilia Romagna
+261;13/01/2022;Ungori Alba;Moto;Annef;5;18;Emilia Romagna
+882;22/01/2022;Ungori Alba;Moto;Annef;5;11;Friuli Venezia Giulia
+630;20/02/2022;Ungori Alba;Auto;Blacky;4;8;Sardegna
+209;21/02/2022;Ungori Alba;Moto;Maio;12;16;Puglia
+805;25/02/2022;Ungori Alba;Moto;Annef;5;12;Lombardia
+939;15/03/2022;Ungori Alba;Auto;Jack;3.4;17;Calabria
+779;31/03/2022;Ungori Alba;Moto;Annef;5;20;Calabria
+242;18/04/2022;Ungori Alba;Moto;Annef;5;7;Friuli Venezia Giulia
+600;02/05/2022;Ungori Alba;Auto;Jack;3.4;11;Campania
+332;11/05/2022;Ungori Alba;Moto;Bour;12;10;Toscana
+274;17/06/2022;Ungori Alba;Moto;Bour;12;10;Umbria
+685;24/06/2022;Ungori Alba;Moto;Bour;12;2;Lombardia
+782;17/07/2022;Ungori Alba;Auto;Jack;3.4;0;Friuli Venezia Giulia
+451;18/07/2022;Ungori Alba;Auto;Jack;3.4;10;Sicilia
+270;22/07/2022;Ungori Alba;Moto;Maio;12;2;Sardegna
+790;31/07/2022;Ungori Alba;Moto;Cele;6.5;11;Sardegna
+55;11/08/2022;Ungori Alba;Auto;Jack;3.4;11;Valle d'Aosta
+823;25/08/2022;Ungori Alba;Moto;Annef;5;3;Lazio
+359;31/08/2022;Ungori Alba;Moto;Annef;5;12;Calabria
+250;04/09/2022;Ungori Alba;Auto;Blacky;4;17;Sardegna
+573;16/09/2022;Ungori Alba;Auto;Jack;3.4;3;Trentino Alto Adige
+281;24/10/2022;Ungori Alba;Auto;Jack;3.4;20;Emilia Romagna
+271;28/11/2022;Ungori Alba;Moto;Pium;10.45;4;Sicilia
+541;03/12/2022;Ungori Alba;Auto;Jack;3.4;11;Emilia Romagna
+917;09/12/2022;Ungori Alba;Moto;Annef;5;5;Abruzzo
+951;21/08/2020;Rossi Alessandro;Moto;Annef;5;12;Sicilia
+208;16/01/2022;Rossi Alessandro;Moto;Annef;5;9;Piemonte
+50;23/05/2022;Rossi Alessandro;Moto;Annef;5;20;Sardegna
+673;02/01/2020;Noccori Silvano;Auto;Jack;3.4;11;Trentino Alto Adige
+353;12/01/2020;Noccori Silvano;Auto;Assad;8;0;Trentino Alto Adige
+325;30/01/2020;Noccori Silvano;Auto;Jack;3.4;8;Lombardia
+559;09/02/2020;Noccori Silvano;Moto;Annef;5;19;Calabria
+789;12/03/2020;Noccori Silvano;Moto;Annef;5;18;Puglia
+583;14/03/2020;Noccori Silvano;Auto;Jack;3.4;9;Lazio
+320;23/04/2020;Noccori Silvano;Auto;Jack;3.4;11;Campania
+482;15/06/2020;Noccori Silvano;Auto;Jack;3.4;1;Friuli Venezia Giulia
+370;20/06/2020;Noccori Silvano;Auto;Jack;3.4;4;Sardegna
+859;27/07/2020;Noccori Silvano;Moto;Annef;5;12;Calabria
+532;03/08/2020;Noccori Silvano;Moto;Annef;5;6;Toscana
+309;08/08/2020;Noccori Silvano;Auto;Jack;3.4;14;Puglia
+629;09/08/2020;Noccori Silvano;Moto;Bour;12;18;Puglia
+293;13/08/2020;Noccori Silvano;Auto;Assad;8;0;Trentino Alto Adige
+298;23/08/2020;Noccori Silvano;Moto;Annef;5;2;Basilicata
+280;04/09/2020;Noccori Silvano;Auto;Jack;3.4;18;Campania
+913;15/01/2021;Noccori Silvano;Moto;Bour;12;6;Trentino Alto Adige
+826;19/02/2021;Noccori Silvano;Auto;Jack;3.4;13;Marche
+224;30/04/2021;Noccori Silvano;Moto;Bour;12;3;Liguria
+764;06/05/2021;Noccori Silvano;Moto;Annef;5;12;Liguria
+220;09/05/2021;Noccori Silvano;Auto;Jack;3.4;9;Campania
+141;24/05/2021;Noccori Silvano;Moto;Bour;12;2;Emilia Romagna
+153;16/08/2021;Noccori Silvano;Moto;Pium;10.45;0;Trentino Alto Adige
+578;06/09/2021;Noccori Silvano;Moto;Bour;12;4;Basilicata
+227;28/09/2021;Noccori Silvano;Moto;Annef;5;6;Molise
+77;16/10/2021;Noccori Silvano;Moto;Pium;10.45;11;Abruzzo
+923;23/10/2021;Noccori Silvano;Auto;Jack;3.4;8;Lazio
+1026;21/11/2021;Noccori Silvano;Auto;Jack;3.4;20;Marche
+210;02/03/2022;Noccori Silvano;Moto;Pium;10.45;8;Sardegna
+402;20/05/2022;Noccori Silvano;Moto;Annef;5;20;Friuli Venezia Giulia
+365;03/06/2022;Noccori Silvano;Auto;Jack;3.4;10;Lombardia
+422;06/06/2022;Noccori Silvano;Auto;Jack;3.4;12;Friuli Venezia Giulia
+123;08/06/2022;Noccori Silvano;Moto;Annef;5;5;Lazio
+766;18/06/2022;Noccori Silvano;Auto;Assad;8;3;Marche
+698;13/07/2022;Noccori Silvano;Moto;Annef;5;14;Basilicata
+550;17/07/2022;Noccori Silvano;Auto;Jack;3.4;10;Sardegna
+706;21/08/2022;Noccori Silvano;Auto;Assad;8;11;Marche
+459;26/08/2022;Noccori Silvano;Auto;Jack;3.4;20;Calabria
+214;08/09/2022;Noccori Silvano;Moto;Annef;5;15;Umbria
+612;03/10/2022;Noccori Silvano;Moto;Annef;5;4;Toscana
+982;03/10/2022;Noccori Silvano;Auto;Jack;3.4;14;Friuli Venezia Giulia
+474;07/11/2022;Noccori Silvano;Moto;Annef;5;6;Umbria
+428;11/11/2022;Noccori Silvano;Auto;Jack;3.4;20;Piemonte
+963;12/11/2022;Noccori Silvano;Moto;Bour;12;10;Lazio
+21;17/11/2022;Noccori Silvano;Moto;Pium;10.45;2;Liguria
+355;25/01/2020;Melli Maria;Moto;Annef;5;3;Valle d'Aosta
+643;21/02/2020;Melli Maria;Auto;Jack;3.4;17;Lazio
+535;14/03/2020;Melli Maria;Moto;Annef;5;0;Valle d'Aosta
+267;21/05/2020;Melli Maria;Auto;Jack;3.4;7;Molise
+972;13/06/2020;Melli Maria;Auto;Jack;3.4;7;Toscana
+449;29/06/2020;Melli Maria;Auto;Pium;10.78;2;Puglia
+814;15/07/2020;Melli Maria;Auto;Jack;3.4;7;Umbria
+1021;17/07/2020;Melli Maria;Moto;Pium;10.45;20;Emilia Romagna
+164;05/08/2020;Melli Maria;Auto;Jack;3.4;14;Liguria
+553;17/08/2020;Melli Maria;Auto;Jack;3.4;9;Trentino Alto Adige
+81;18/08/2020;Melli Maria;Auto;Jack;3.4;8;Emilia Romagna
+240;22/09/2020;Melli Maria;Moto;Annef;5;4;Campania
+733;22/09/2020;Melli Maria;Moto;Annef;5;17;Trentino Alto Adige
+90;25/09/2020;Melli Maria;Moto;Pium;10.45;20;Sardegna
+867;03/10/2020;Melli Maria;Moto;Bour;12;9;Molise
+964;14/10/2020;Melli Maria;Auto;Jack;3.4;9;Liguria
+145;27/10/2020;Melli Maria;Auto;Jack;3.4;8;Lombardia
+989;29/10/2020;Melli Maria;Auto;Jack;3.4;17;Puglia
+543;08/11/2020;Melli Maria;Moto;Annef;5;14;Lazio
+497;22/11/2020;Melli Maria;Auto;Jack;3.4;2;Abruzzo
+1028;03/01/2021;Melli Maria;Auto;Jack;3.4;19;Piemonte
+908;15/03/2021;Melli Maria;Auto;Jack;3.4;15;Piemonte
+479;17/03/2021;Melli Maria;Moto;Annef;5;11;Calabria
+759;20/03/2021;Melli Maria;Auto;Jack;3.4;5;Calabria
+391;11/04/2021;Melli Maria;Auto;Jack;3.4;8;Sicilia
+185;17/04/2021;Melli Maria;Moto;Annef;5;16;Lombardia
+41;21/04/2021;Melli Maria;Auto;Jack;3.4;10;Emilia Romagna
+99;02/05/2021;Melli Maria;Moto;Bour;12;17;Calabria
+741;29/06/2021;Melli Maria;Moto;Annef;5;19;Emilia Romagna
+430;03/07/2021;Melli Maria;Auto;Jack;3.4;11;Sardegna
+580;05/08/2021;Melli Maria;Moto;Annef;5;19;Campania
+496;22/08/2021;Melli Maria;Moto;Bour;12;14;Veneto
+369;09/10/2021;Melli Maria;Auto;Jack;3.4;12;Puglia
+570;15/11/2021;Melli Maria;Moto;Annef;5;2;Sardegna
+419;19/11/2021;Melli Maria;Moto;Annef;5;5;Calabria
+863;20/11/2021;Melli Maria;Auto;Jack;3.4;17;Lazio
+995;21/11/2021;Melli Maria;Auto;Jack;3.4;2;Valle d'Aosta
+874;24/11/2021;Melli Maria;Moto;Annef;5;1;Umbria
+877;26/11/2021;Melli Maria;Auto;Jack;3.4;10;Abruzzo
+35;02/12/2021;Melli Maria;Moto;Pium;10.45;13;Veneto
+512;20/12/2021;Melli Maria;Auto;Jack;3.4;2;Toscana
+783;08/01/2022;Melli Maria;Auto;Pium;10.78;20;Lazio
+531;03/03/2022;Melli Maria;Auto;Jack;3.4;20;Sicilia
+448;19/03/2022;Melli Maria;Auto;Jack;3.4;6;Piemonte
+160;03/04/2022;Melli Maria;Moto;Annef;5;11;Campania
+749;24/04/2022;Melli Maria;Moto;Annef;5;6;Puglia
+156;01/05/2022;Melli Maria;Moto;Annef;5;19;Veneto
+475;02/07/2022;Melli Maria;Moto;Annef;5;18;Valle d'Aosta
+699;11/07/2022;Melli Maria;Moto;Annef;5;11;Calabria
+775;17/08/2022;Melli Maria;Moto;Annef;5;14;Valle d'Aosta
+180;28/08/2022;Melli Maria;Moto;Annef;5;20;Campania
+500;15/09/2022;Melli Maria;Auto;Jack;3.4;14;Campania
+638;18/09/2022;Melli Maria;Moto;Annef;5;20;Basilicata
+799;17/12/2022;Melli Maria;Moto;Annef;5;18;Calabria
+767;28/12/2022;Melli Maria;Auto;Jack;3.4;5;Molise
+330;07/01/2020;Longhi Aldo;Auto;Jack;3.4;9;Sardegna
+957;12/01/2020;Longhi Aldo;Moto;Annef;5;7;Abruzzo
+527;19/01/2020;Longhi Aldo;Auto;Jack;3.4;8;Molise
+23;30/01/2020;Longhi Aldo;Moto;Annef;5;17;Marche
+815;31/01/2020;Longhi Aldo;Moto;Annef;5;6;Valle d'Aosta
+701;01/02/2020;Longhi Aldo;Auto;Jack;3.4;3;Emilia Romagna
+746;01/02/2020;Longhi Aldo;Moto;Bour;12;7;Marche
+307;02/02/2020;Longhi Aldo;Moto;Annef;5;10;Molise
+633;02/02/2020;Longhi Aldo;Moto;Cele;6.5;16;Trentino Alto Adige
+358;05/02/2020;Longhi Aldo;Moto;Annef;5;2;Basilicata
+294;23/02/2020;Longhi Aldo;Auto;Assad;8;11;Umbria
+681;27/02/2020;Longhi Aldo;Moto;Maio;12;13;Emilia Romagna
+19;03/03/2020;Longhi Aldo;Moto;Bour;12;7;Friuli Venezia Giulia
+509;07/03/2020;Longhi Aldo;Auto;Blacky;4;3;Puglia
+37;08/03/2020;Longhi Aldo;Auto;Blacky;4;19;Basilicata
+279;08/03/2020;Longhi Aldo;Auto;Pium;10.78;0;Calabria
+647;18/03/2020;Longhi Aldo;Auto;Assad;8;17;Molise
+444;22/03/2020;Longhi Aldo;Moto;Annef;5;0;Liguria
+930;27/03/2020;Longhi Aldo;Auto;Blacky;4;14;Sardegna
+102;11/04/2020;Longhi Aldo;Auto;Jack;3.4;2;Friuli Venezia Giulia
+421;15/04/2020;Longhi Aldo;Moto;Annef;5;7;Emilia Romagna
+645;20/04/2020;Longhi Aldo;Auto;Jack;3.4;10;Lombardia
+45;27/04/2020;Longhi Aldo;Auto;Jack;3.4;17;Lombardia
+158;05/05/2020;Longhi Aldo;Auto;Blacky;4;11;Basilicata
+819;08/05/2020;Longhi Aldo;Auto;Jack;3.4;10;Calabria
+505;13/05/2020;Longhi Aldo;Moto;Annef;5;8;Lombardia
+784;13/05/2020;Longhi Aldo;Moto;Annef;5;12;Liguria
+473;28/05/2020;Longhi Aldo;Moto;Annef;5;20;Trentino Alto Adige
+871;01/06/2020;Longhi Aldo;Auto;Jack;3.4;6;Sicilia
+225;03/06/2020;Longhi Aldo;Moto;Annef;5;3;Lombardia
+392;09/06/2020;Longhi Aldo;Auto;Jack;3.4;16;Toscana
+738;13/06/2020;Longhi Aldo;Auto;Pium;10.78;8;Basilicata
+34;14/06/2020;Longhi Aldo;Moto;Maio;12;9;Valle d'Aosta
+201;23/06/2020;Longhi Aldo;Auto;Jack;3.4;4;Emilia Romagna
+264;29/06/2020;Longhi Aldo;Auto;Jack;3.4;18;Liguria
+268;29/06/2020;Longhi Aldo;Moto;Annef;5;1;Piemonte
+804;17/07/2020;Longhi Aldo;Moto;Bour;12;3;Liguria
+458;20/07/2020;Longhi Aldo;Auto;Blacky;4;18;Basilicata
+552;25/07/2020;Longhi Aldo;Moto;Cele;6.5;3;Toscana
+1011;27/07/2020;Longhi Aldo;Moto;Annef;5;8;Sicilia
+272;28/07/2020;Longhi Aldo;Auto;Jack;3.4;0;Toscana
+888;11/08/2020;Longhi Aldo;Moto;Annef;5;12;Piemonte
+637;15/08/2020;Longhi Aldo;Moto;Annef;5;12;Abruzzo
+831;22/08/2020;Longhi Aldo;Moto;Annef;5;5;Sicilia
+624;28/08/2020;Longhi Aldo;Moto;Maio;12;14;Liguria
+1008;11/09/2020;Longhi Aldo;Moto;Annef;5;6;Piemonte
+937;18/09/2020;Longhi Aldo;Auto;Jack;3.4;20;Abruzzo
+646;19/09/2020;Longhi Aldo;Moto;Annef;5;0;Marche
+425;29/09/2020;Longhi Aldo;Moto;Annef;5;2;Lombardia
+598;29/09/2020;Longhi Aldo;Moto;Annef;5;11;Basilicata
+727;06/10/2020;Longhi Aldo;Moto;Cele;6.5;10;Molise
+929;09/10/2020;Longhi Aldo;Moto;Annef;5;12;Puglia
+219;14/10/2020;Longhi Aldo;Auto;Jack;3.4;15;Calabria
+499;14/10/2020;Longhi Aldo;Moto;Cele;6.5;12;Calabria
+677;24/10/2020;Longhi Aldo;Moto;Cele;6.5;7;Abruzzo
+308;02/11/2020;Longhi Aldo;Moto;Annef;5;1;Piemonte
+887;30/11/2020;Longhi Aldo;Moto;Annef;5;19;Molise
+436;01/12/2020;Longhi Aldo;Auto;Jack;3.4;13;Veneto
+563;05/12/2020;Longhi Aldo;Auto;Blacky;4;17;Lazio
+561;07/12/2020;Longhi Aldo;Moto;Maio;12;1;Emilia Romagna
+46;08/12/2020;Longhi Aldo;Moto;Annef;5;20;Marche
+763;13/12/2020;Longhi Aldo;Auto;Jack;3.4;0;Lazio
+203;16/12/2020;Longhi Aldo;Auto;Blacky;4;9;Lazio
+808;25/12/2020;Longhi Aldo;Moto;Cele;6.5;8;Piemonte
+387;31/12/2020;Longhi Aldo;Moto;Annef;5;0;Molise
+744;09/01/2021;Longhi Aldo;Auto;Jack;3.4;18;Liguria
+755;12/01/2021;Longhi Aldo;Moto;Annef;5;6;Valle d'Aosta
+947;14/01/2021;Longhi Aldo;Moto;Annef;5;20;Molise
+722;21/01/2021;Longhi Aldo;Auto;Blacky;4;19;Friuli Venezia Giulia
+806;31/01/2021;Longhi Aldo;Auto;Blacky;4;12;Marche
+363;05/02/2021;Longhi Aldo;Auto;Jack;3.4;5;Lazio
+626;07/02/2021;Longhi Aldo;Auto;Pium;10.78;12;Marche
+977;12/02/2021;Longhi Aldo;Moto;Annef;5;5;Abruzzo
+297;18/02/2021;Longhi Aldo;Moto;Annef;5;7;Abruzzo
+167;26/02/2021;Longhi Aldo;Moto;Annef;5;19;Molise
+516;04/03/2021;Longhi Aldo;Auto;Jack;3.4;1;Veneto
+1005;04/03/2021;Longhi Aldo;Moto;Annef;5;20;Lombardia
+327;14/03/2021;Longhi Aldo;Moto;Annef;5;20;Molise
+453;20/03/2021;Longhi Aldo;Moto;Bour;12;12;Trentino Alto Adige
+893;27/03/2021;Longhi Aldo;Moto;Annef;5;18;Trentino Alto Adige
+554;28/03/2021;Longhi Aldo;Auto;Jack;3.4;13;Umbria
+657;11/04/2021;Longhi Aldo;Moto;Annef;5;10;Abruzzo
+151;30/04/2021;Longhi Aldo;Moto;Annef;5;6;Sicilia
+820;02/05/2021;Longhi Aldo;Auto;Jack;3.4;1;Campania
+306;22/05/2021;Longhi Aldo;Auto;Jack;3.4;14;Marche
+702;30/05/2021;Longhi Aldo;Auto;Jack;3.4;9;Friuli Venezia Giulia
+367;06/06/2021;Longhi Aldo;Moto;Annef;5;0;Molise
+829;06/07/2021;Longhi Aldo;Moto;Annef;5;4;Puglia
+376;18/07/2021;Longhi Aldo;Auto;Blacky;4;15;Veneto
+928;26/07/2021;Longhi Aldo;Auto;Jack;3.4;13;Piemonte
+582;12/08/2021;Longhi Aldo;Auto;Jack;3.4;19;Friuli Venezia Giulia
+379;15/08/2021;Longhi Aldo;Auto;Jack;3.4;19;Calabria
+544;18/08/2021;Longhi Aldo;Moto;Annef;5;8;Liguria
+433;02/09/2021;Longhi Aldo;Auto;Jack;3.4;16;Trentino Alto Adige
+1006;05/09/2021;Longhi Aldo;Moto;Annef;5;13;Marche
+417;09/09/2021;Longhi Aldo;Moto;Annef;5;1;Abruzzo
+742;09/09/2021;Longhi Aldo;Moto;Maio;12;5;Friuli Venezia Giulia
+671;13/09/2021;Longhi Aldo;Moto;Cele;6.5;15;Sicilia
+618;14/09/2021;Longhi Aldo;Auto;Jack;3.4;15;Basilicata
+973;26/09/2021;Longhi Aldo;Auto;Jack;3.4;2;Trentino Alto Adige
+477;28/09/2021;Longhi Aldo;Moto;Annef;5;18;Abruzzo
+616;29/09/2021;Longhi Aldo;Moto;Cele;6.5;8;Veneto
+401;30/09/2021;Longhi Aldo;Auto;Pium;10.78;0;Emilia Romagna
+126;13/10/2021;Longhi Aldo;Moto;Annef;5;14;Marche
+254;15/10/2021;Longhi Aldo;Moto;Annef;5;18;Umbria
+414;16/10/2021;Longhi Aldo;Moto;Annef;5;6;Umbria
+64;23/10/2021;Longhi Aldo;Moto;Annef;5;1;Liguria
+221;30/10/2021;Longhi Aldo;Moto;Annef;5;15;Emilia Romagna
+525;02/11/2021;Longhi Aldo;Auto;Jack;3.4;12;Lombardia
+668;07/11/2021;Longhi Aldo;Moto;Pium;10.45;7;Piemonte
+66;16/11/2021;Longhi Aldo;Moto;Annef;5;18;Marche
+415;09/12/2021;Longhi Aldo;Moto;Annef;5;19;Valle d'Aosta
+96;15/12/2021;Longhi Aldo;Moto;Annef;5;6;Veneto
+603;21/12/2021;Longhi Aldo;Moto;Annef;5;20;Lazio
+168;03/01/2022;Longhi Aldo;Moto;Annef;5;8;Piemonte
+726;06/01/2022;Longhi Aldo;Moto;Annef;5;13;Marche
+632;07/01/2022;Longhi Aldo;Moto;Annef;5;8;Toscana
+143;08/01/2022;Longhi Aldo;Moto;Annef;5;8;Lazio
+284;03/02/2022;Longhi Aldo;Moto;Annef;5;13;Liguria
+881;05/02/2022;Longhi Aldo;Auto;Jack;3.4;20;Emilia Romagna
+686;08/02/2022;Longhi Aldo;Auto;Pium;10.78;17;Marche
+990;11/02/2022;Longhi Aldo;Moto;Annef;5;100;Sardegna
+948;01/03/2022;Longhi Aldo;Moto;Annef;5;4;Piemonte
+864;11/03/2022;Longhi Aldo;Auto;Jack;3.4;19;Liguria
+802;16/03/2022;Longhi Aldo;Auto;Jack;3.4;20;Friuli Venezia Giulia
+1016;19/03/2022;Longhi Aldo;Moto;Annef;5;6;Veneto
+88;25/03/2022;Longhi Aldo;Moto;Annef;5;8;Piemonte
+514;01/04/2022;Longhi Aldo;Moto;Annef;5;10;Umbria
+705;15/04/2022;Longhi Aldo;Moto;Annef;5;0;Lombardia
+89;21/04/2022;Longhi Aldo;Moto;Maio;12;10;Puglia
+28;24/04/2022;Longhi Aldo;Auto;Jack;3.4;13;Sardegna
+48;26/04/2022;Longhi Aldo;Moto;Annef;5;10;Piemonte
+949;30/04/2022;Longhi Aldo;Moto;Annef;5;3;Puglia
+107;01/05/2022;Longhi Aldo;Moto;Annef;5;0;Molise
+577;01/05/2022;Longhi Aldo;Moto;Annef;5;6;Abruzzo
+854;02/05/2022;Longhi Aldo;Auto;Jack;3.4;9;Umbria
+489;09/05/2022;Longhi Aldo;Moto;Annef;5;9;Puglia
+716;14/05/2022;Longhi Aldo;Moto;Annef;5;4;Veneto
+343;20/05/2022;Longhi Aldo;Moto;Annef;5;3;Lazio
+731;28/05/2022;Longhi Aldo;Auto;Jack;3.4;9;Sicilia
+575;04/06/2022;Longhi Aldo;Moto;Annef;5;18;Valle d'Aosta
+152;14/06/2022;Longhi Aldo;Moto;Maio;12;9;Toscana
+312;17/06/2022;Longhi Aldo;Moto;Annef;5;7;Toscana
+423;17/06/2022;Longhi Aldo;Auto;Jack;3.4;12;Lazio
+584;20/06/2022;Longhi Aldo;Auto;Jack;3.4;8;Liguria
+93;03/07/2022;Longhi Aldo;Moto;Cele;6.5;14;Trentino Alto Adige
+909;11/07/2022;Longhi Aldo;Auto;Jack;3.4;15;Puglia
+848;04/08/2022;Longhi Aldo;Auto;Blacky;4;9;Piemonte
+234;28/08/2022;Longhi Aldo;Auto;Assad;8;9;Umbria
+464;01/09/2022;Longhi Aldo;Auto;Jack;3.4;14;Liguria
+342;11/09/2022;Longhi Aldo;Auto;Jack;3.4;12;Friuli Venezia Giulia
+485;11/09/2022;Longhi Aldo;Moto;Annef;5;15;Lombardia
+218;14/09/2022;Longhi Aldo;Auto;Jack;3.4;13;Basilicata
+1007;23/09/2022;Longhi Aldo;Moto;Annef;5;15;Molise
+340;30/09/2022;Longhi Aldo;Moto;Annef;5;13;Campania
+251;01/10/2022;Longhi Aldo;Auto;Jack;3.4;2;Sicilia
+72;08/10/2022;Longhi Aldo;Moto;Annef;5;2;Toscana
+640;16/10/2022;Longhi Aldo;Moto;Annef;5;20;Campania
+810;16/10/2022;Longhi Aldo;Auto;Jack;3.4;20;Sardegna
+360;25/10/2022;Longhi Aldo;Moto;Annef;5;17;Campania
+801;25/10/2022;Longhi Aldo;Moto;Pium;10.45;6;Emilia Romagna
+400;29/10/2022;Longhi Aldo;Moto;Annef;5;17;Campania
+568;29/10/2022;Longhi Aldo;Moto;Annef;5;2;Piemonte
+912;05/11/2022;Longhi Aldo;Moto;Annef;5;1;Toscana
+707;12/11/2022;Longhi Aldo;Auto;Assad;8;10;Molise
+105;25/11/2022;Longhi Aldo;Moto;Annef;5;9;Lombardia
+109;25/11/2022;Longhi Aldo;Moto;Annef;5;15;Puglia
+315;28/11/2022;Longhi Aldo;Auto;Pium;10.78;8;Valle d'Aosta
+687;06/12/2022;Longhi Aldo;Moto;Annef;5;5;Molise
+693;16/12/2022;Longhi Aldo;Moto;Annef;5;15;Trentino Alto Adige
+91;17/12/2022;Longhi Aldo;Auto;Blacky;4;10;Sicilia
+283;19/12/2022;Longhi Aldo;Moto;Annef;5;8;Lazio
+373;19/12/2022;Longhi Aldo;Moto;Bour;12;18;Trentino Alto Adige
+670;23/12/2022;Longhi Aldo;Moto;Annef;5;19;Sardegna
+961;23/12/2022;Longhi Aldo;Moto;Annef;5;17;Emilia Romagna
+891;05/01/2020;Lelli Anna;Moto;Annef;5;8;Sicilia
+980;08/01/2020;Lelli Anna;Auto;Pium;10.78;11;Campania
+356;09/01/2020;Lelli Anna;Moto;Annef;5;4;Veneto
+984;14/02/2020;Lelli Anna;Auto;Jack;3.4;7;Liguria
+1017;22/02/2020;Lelli Anna;Auto;Jack;3.4;1;Abruzzo
+743;23/02/2020;Lelli Anna;Moto;Pium;10.45;14;Lazio
+374;25/02/2020;Lelli Anna;Auto;Jack;3.4;6;Umbria
+898;10/03/2020;Lelli Anna;Moto;Annef;5;3;Basilicata
+680;13/03/2020;Lelli Anna;Moto;Annef;5;17;Campania
+811;27/03/2020;Lelli Anna;Auto;Jack;3.4;12;Sicilia
+259;14/04/2020;Lelli Anna;Auto;Jack;3.4;3;Calabria
+484;13/05/2020;Lelli Anna;Moto;Annef;5;7;Liguria
+890;20/05/2020;Lelli Anna;Moto;Annef;5;2;Sardegna
+846;22/05/2020;Lelli Anna;Auto;Jack;3.4;12;Marche
+15;27/05/2020;Lelli Anna;Auto;Jack;3.4;0;Calabria
+447;31/05/2020;Lelli Anna;Auto;Jack;3.4;16;Molise
+830;06/07/2020;Lelli Anna;Moto;Annef;5;3;Sardegna
+278;07/07/2020;Lelli Anna;Moto;Bour;12;1;Basilicata
+275;26/07/2020;Lelli Anna;Auto;Jack;3.4;20;Valle d'Aosta
+689;26/08/2020;Lelli Anna;Auto;Jack;3.4;7;Puglia
+652;03/09/2020;Lelli Anna;Moto;Annef;5;13;Toscana
+468;04/09/2020;Lelli Anna;Auto;Jack;3.4;14;Piemonte
+413;06/09/2020;Lelli Anna;Auto;Jack;3.4;3;Trentino Alto Adige
+613;15/09/2020;Lelli Anna;Moto;Bour;12;16;Trentino Alto Adige
+518;20/09/2020;Lelli Anna;Moto;Annef;5;7;Basilicata
+902;28/09/2020;Lelli Anna;Auto;Jack;3.4;9;Friuli Venezia Giulia
+253;06/10/2020;Lelli Anna;Auto;Jack;3.4;0;Trentino Alto Adige
+390;09/10/2020;Lelli Anna;Auto;Jack;3.4;3;Sardegna
+849;14/10/2020;Lelli Anna;Auto;Jack;3.4;3;Puglia
+335;31/10/2020;Lelli Anna;Auto;Jack;3.4;2;Valle d'Aosta
+155;05/11/2020;Lelli Anna;Auto;Jack;3.4;7;Valle d'Aosta
+522;08/11/2020;Lelli Anna;Moto;Annef;5;6;Friuli Venezia Giulia
+696;14/11/2020;Lelli Anna;Moto;Bour;12;2;Veneto
+762;03/12/2020;Lelli Anna;Auto;Jack;3.4;14;Friuli Venezia Giulia
+49;05/12/2020;Lelli Anna;Moto;Annef;5;3;Puglia
+770;06/12/2020;Lelli Anna;Moto;Annef;5;15;Sardegna
+587;10/12/2020;Lelli Anna;Moto;Annef;5;6;Molise
+406;18/12/2020;Lelli Anna;Auto;Jack;3.4;18;Marche
+608;01/01/2021;Lelli Anna;Moto;Annef;5;10;Piemonte
+310;12/01/2021;Lelli Anna;Auto;Jack;3.4;15;Sardegna
+889;29/01/2021;Lelli Anna;Moto;Annef;5;13;Puglia
+407;08/02/2021;Lelli Anna;Auto;Jack;3.4;13;Molise
+519;16/02/2021;Lelli Anna;Auto;Pium;10.78;19;Calabria
+299;24/02/2021;Lelli Anna;Moto;Annef;5;19;Calabria
+193;02/03/2021;Lelli Anna;Auto;Pium;10.78;3;Trentino Alto Adige
+455;02/03/2021;Lelli Anna;Auto;Jack;3.4;7;Valle d'Aosta
+206;03/03/2021;Lelli Anna;Auto;Jack;3.4;2;Marche
+322;10/03/2021;Lelli Anna;Auto;Jack;3.4;15;Friuli Venezia Giulia
+987;17/03/2021;Lelli Anna;Auto;Jack;3.4;18;Molise
+712;31/03/2021;Lelli Anna;Moto;Annef;5;14;Toscana
+440;07/04/2021;Lelli Anna;Moto;Annef;5;14;Campania
+610;08/04/2021;Lelli Anna;Moto;Pium;10.45;13;Sardegna
+526;11/04/2021;Lelli Anna;Auto;Jack;3.4;6;Marche
+919;12/04/2021;Lelli Anna;Auto;Jack;3.4;7;Calabria
+791;18/04/2021;Lelli Anna;Auto;Jack;3.4;14;Sicilia
+150;22/04/2021;Lelli Anna;Moto;Annef;5;4;Sardegna
+289;01/05/2021;Lelli Anna;Auto;Jack;3.4;15;Puglia
+642;09/05/2021;Lelli Anna;Auto;Jack;3.4;10;Friuli Venezia Giulia
+148;12/06/2021;Lelli Anna;Auto;Pium;10.78;0;Piemonte
+121;20/06/2021;Lelli Anna;Moto;Annef;5;0;Emilia Romagna
+872;25/06/2021;Lelli Anna;Moto;Annef;5;12;Toscana
+324;26/06/2021;Lelli Anna;Moto;Bour;12;17;Liguria
+87;11/07/2021;Lelli Anna;Moto;Annef;5;4;Molise
+507;29/07/2021;Lelli Anna;Moto;Maio;12;3;Molise
+857;30/07/2021;Lelli Anna;Auto;Jack;3.4;14;Abruzzo
+79;28/08/2021;Lelli Anna;Moto;Annef;5;11;Calabria
+377;17/09/2021;Lelli Anna;Auto;Jack;3.4;16;Abruzzo
+165;26/09/2021;Lelli Anna;Moto;Annef;5;5;Lombardia
+665;27/09/2021;Lelli Anna;Moto;Annef;5;1;Lombardia
+708;02/10/2021;Lelli Anna;Auto;Jack;3.4;1;Piemonte
+794;04/10/2021;Lelli Anna;Auto;Jack;3.4;20;Umbria
+207;13/10/2021;Lelli Anna;Moto;Annef;5;3;Molise
+296;20/10/2021;Lelli Anna;Moto;Annef;5;5;Veneto
+807;08/11/2021;Lelli Anna;Auto;Jack;3.4;20;Molise
+615;10/11/2021;Lelli Anna;Moto;Annef;5;7;Valle d'Aosta
+524;16/11/2021;Lelli Anna;Auto;Jack;3.4;14;Liguria
+931;17/11/2021;Lelli Anna;Auto;Jack;3.4;12;Sicilia
+211;27/11/2021;Lelli Anna;Auto;Jack;3.4;15;Sicilia
+644;21/12/2021;Lelli Anna;Auto;Jack;3.4;13;Liguria
+163;22/12/2021;Lelli Anna;Auto;Jack;3.4;14;Lazio
+495;23/12/2021;Lelli Anna;Moto;Annef;5;0;Valle d'Aosta
+704;01/01/2022;Lelli Anna;Auto;Jack;3.4;14;Liguria
+950;01/01/2022;Lelli Anna;Moto;Annef;5;13;Sardegna
+136;02/01/2022;Lelli Anna;Moto;Annef;5;7;Veneto
+248;18/01/2022;Lelli Anna;Moto;Annef;5;6;Piemonte
+842;28/01/2022;Lelli Anna;Auto;Jack;3.4;11;Friuli Venezia Giulia
+959;11/02/2022;Lelli Anna;Auto;Jack;3.4;3;Calabria
+956;01/03/2022;Lelli Anna;Moto;Annef;5;11;Veneto
+382;10/03/2022;Lelli Anna;Auto;Jack;3.4;5;Friuli Venezia Giulia
+528;21/03/2022;Lelli Anna;Moto;Annef;5;16;Piemonte
+725;24/03/2022;Lelli Anna;Auto;Jack;3.4;5;Lombardia
+827;31/03/2022;Lelli Anna;Moto;Annef;5;19;Molise
+747;04/05/2022;Lelli Anna;Auto;Jack;3.4;12;Molise
+42;10/05/2022;Lelli Anna;Moto;Annef;5;6;Friuli Venezia Giulia
+586;13/05/2022;Lelli Anna;Auto;Jack;3.4;17;Marche
+204;22/05/2022;Lelli Anna;Auto;Jack;3.4;16;Liguria
+313;31/05/2022;Lelli Anna;Auto;Jack;3.4;0;Trentino Alto Adige
+300;15/06/2022;Lelli Anna;Moto;Annef;5;2;Campania
+683;25/06/2022;Lelli Anna;Auto;Jack;3.4;20;Lazio
+316;29/06/2022;Lelli Anna;Auto;Jack;3.4;10;Veneto
+724;04/07/2022;Lelli Anna;Auto;Jack;3.4;4;Liguria
+753;20/08/2022;Lelli Anna;Auto;Jack;3.4;2;Trentino Alto Adige
+621;02/09/2022;Lelli Anna;Auto;Jack;3.4;15;Emilia Romagna
+946;18/09/2022;Lelli Anna;Moto;Annef;5;11;Marche
+897;08/10/2022;Lelli Anna;Moto;Annef;5;16;Abruzzo
+566;02/11/2022;Lelli Anna;Auto;Pium;10.78;5;Marche
+239;15/11/2022;Lelli Anna;Moto;Annef;5;18;Calabria
+472;16/11/2022;Lelli Anna;Auto;Jack;3.4;18;Toscana
+346;04/12/2022;Lelli Anna;Auto;Jack;3.4;4;Marche
+194;07/12/2022;Lelli Anna;Moto;Annef;5;11;Umbria
+965;17/12/2022;Lelli Anna;Moto;Pium;10.45;16;Lombardia
+538;24/12/2022;Lelli Anna;Moto;Annef;5;4;Basilicata
+571;04/01/2020;Gotti Leo;Moto;Bour;12;18;Sicilia
+104;05/01/2020;Gotti Leo;Auto;Jack;3.4;15;Liguria
+625;06/01/2020;Gotti Leo;Moto;Pium;10.45;12;Lombardia
+405;20/01/2020;Gotti Leo;Auto;Jack;3.4;12;Lombardia
+287;26/01/2020;Gotti Leo;Auto;Jack;3.4;14;Molise
+547;20/02/2020;Gotti Leo;Moto;Annef;5;11;Molise
+862;21/02/2020;Gotti Leo;Auto;Jack;3.4;13;Friuli Venezia Giulia
+968;18/03/2020;Gotti Leo;Moto;Bour;12;18;Piemonte
+466;19/03/2020;Gotti Leo;Auto;Jack;3.4;8;Marche
+934;05/04/2020;Gotti Leo;Moto;Annef;5;11;Umbria
+992;14/04/2020;Gotti Leo;Moto;Annef;5;13;Toscana
+988;21/04/2020;Gotti Leo;Auto;Jack;3.4;3;Piemonte
+100;30/04/2020;Gotti Leo;Auto;Jack;3.4;18;Campania
+585;02/05/2020;Gotti Leo;Auto;Jack;3.4;4;Lombardia
+245;03/05/2020;Gotti Leo;Auto;Jack;3.4;2;Lombardia
+754;04/05/2020;Gotti Leo;Auto;Jack;3.4;9;Umbria
+682;05/05/2020;Gotti Leo;Moto;Pium;10.45;20;Friuli Venezia Giulia
+95;08/05/2020;Gotti Leo;Auto;Pium;10.78;16;Valle d'Aosta
+565;11/05/2020;Gotti Leo;Moto;Cele;6.5;19;Lombardia
+465;14/05/2020;Gotti Leo;Auto;Jack;3.4;3;Lombardia
+213;07/06/2020;Gotti Leo;Moto;Bour;12;19;Trentino Alto Adige
+393;08/06/2020;Gotti Leo;Moto;Annef;5;11;Trentino Alto Adige
+900;24/06/2020;Gotti Leo;Auto;Jack;3.4;5;Campania
+62;06/07/2020;Gotti Leo;Moto;Annef;5;3;Friuli Venezia Giulia
+1019;10/08/2020;Gotti Leo;Moto;Annef;5;9;Calabria
+171;02/09/2020;Gotti Leo;Auto;Jack;3.4;6;Sicilia
+921;16/09/2020;Gotti Leo;Auto;Pium;10.78;1;Emilia Romagna
+351;04/10/2020;Gotti Leo;Moto;Annef;5;5;Sicilia
+627;22/10/2020;Gotti Leo;Auto;Jack;3.4;14;Molise
+979;04/11/2020;Gotti Leo;Moto;Maio;12;6;Calabria
+676;24/11/2020;Gotti Leo;Auto;Jack;3.4;2;Veneto
+655;25/11/2020;Gotti Leo;Moto;Annef;5;4;Valle d'Aosta
+549;06/12/2020;Gotti Leo;Moto;Pium;10.45;4;Puglia
+467;10/12/2020;Gotti Leo;Auto;Jack;3.4;14;Molise
+349;06/01/2021;Gotti Leo;Auto;Jack;3.4;18;Puglia
+691;08/01/2021;Gotti Leo;Auto;Jack;3.4;9;Sicilia
+581;01/03/2021;Gotti Leo;Moto;Annef;5;3;Emilia Romagna
+228;14/03/2021;Gotti Leo;Auto;Jack;3.4;1;Piemonte
+101;16/03/2021;Gotti Leo;Auto;Jack;3.4;1;Emilia Romagna
+623;17/03/2021;Gotti Leo;Moto;Annef;5;7;Lazio
+756;10/04/2021;Gotti Leo;Moto;Annef;5;9;Veneto
+493;11/04/2021;Gotti Leo;Moto;Pium;10.45;9;Trentino Alto Adige
+446;13/04/2021;Gotti Leo;Moto;Maio;12;10;Marche
+773;12/05/2021;Gotti Leo;Moto;Annef;5;14;Trentino Alto Adige
+833;16/05/2021;Gotti Leo;Moto;Annef;5;4;Trentino Alto Adige
+256;04/06/2021;Gotti Leo;Auto;Jack;3.4;12;Veneto
+408;15/06/2021;Gotti Leo;Auto;Jack;3.4;9;Piemonte
+33;18/06/2021;Gotti Leo;Moto;Annef;5;16;Umbria
+797;01/07/2021;Gotti Leo;Auto;Jack;3.4;14;Abruzzo
+159;09/07/2021;Gotti Leo;Auto;Jack;3.4;10;Calabria
+551;13/07/2021;Gotti Leo;Moto;Annef;5;7;Sicilia
+435;16/07/2021;Gotti Leo;Moto;Cele;6.5;16;Valle d'Aosta
+785;22/07/2021;Gotti Leo;Auto;Jack;3.4;1;Lombardia
+714;26/08/2021;Gotti Leo;Moto;Annef;5;1;Umbria
+709;08/09/2021;Gotti Leo;Moto;Annef;5;0;Puglia
+410;12/09/2021;Gotti Leo;Moto;Annef;5;8;Sardegna
+292;28/09/2021;Gotti Leo;Moto;Annef;5;18;Toscana
+60;19/10/2021;Gotti Leo;Moto;Annef;5;0;Campania
+341;13/11/2021;Gotti Leo;Auto;Jack;3.4;11;Emilia Romagna
+238;15/11/2021;Gotti Leo;Moto;Annef;5;0;Basilicata
+162;18/11/2021;Gotti Leo;Auto;Jack;3.4;5;Friuli Venezia Giulia
+229;25/11/2021;Gotti Leo;Auto;Jack;3.4;19;Puglia
+304;10/12/2021;Gotti Leo;Auto;Jack;3.4;14;Liguria
+189;13/12/2021;Gotti Leo;Moto;Annef;5;11;Puglia
+664;05/01/2022;Gotti Leo;Auto;Jack;3.4;13;Liguria
+432;31/01/2022;Gotti Leo;Auto;Pium;10.78;13;Toscana
+364;25/02/2022;Gotti Leo;Auto;Jack;3.4;12;Liguria
+260;02/03/2022;Gotti Leo;Auto;Jack;3.4;17;Campania
+838;07/03/2022;Gotti Leo;Moto;Annef;5;1;Basilicata
+75;08/03/2022;Gotti Leo;Moto;Annef;5;0;Valle d'Aosta
+463;13/04/2022;Gotti Leo;Moto;Annef;5;1;Lazio
+916;18/04/2022;Gotti Leo;Moto;Annef;5;12;Veneto
+558;22/04/2022;Gotti Leo;Auto;Jack;3.4;2;Basilicata
+720;27/06/2022;Gotti Leo;Moto;Annef;5;4;Campania
+774;01/07/2022;Gotti Leo;Moto;Annef;5;14;Umbria
+305;02/07/2022;Gotti Leo;Auto;Jack;3.4;8;Lombardia
+357;01/08/2022;Gotti Leo;Moto;Annef;5;17;Abruzzo
+389;23/08/2022;Gotti Leo;Moto;Maio;12;9;Puglia
+132;29/08/2022;Gotti Leo;Auto;Jack;3.4;2;Toscana
+426;06/09/2022;Gotti Leo;Moto;Annef;5;3;Marche
+178;10/09/2022;Gotti Leo;Moto;Annef;5;20;Basilicata
+347;14/09/2022;Gotti Leo;Auto;Jack;3.4;15;Molise
+469;23/09/2022;Gotti Leo;Moto;Annef;5;16;Puglia
+110;27/09/2022;Gotti Leo;Auto;Jack;3.4;5;Sardegna
+247;27/09/2022;Gotti Leo;Auto;Jack;3.4;19;Molise
+398;02/10/2022;Gotti Leo;Auto;Jack;3.4;17;Basilicata
+243;14/10/2022;Gotti Leo;Moto;Annef;5;13;Lazio
+967;23/10/2022;Gotti Leo;Moto;Annef;5;0;Molise
+119;28/10/2022;Gotti Leo;Moto;Annef;5;4;Calabria
+188;05/11/2022;Gotti Leo;Auto;Jack;3.4;20;Piemonte
+191;15/11/2022;Gotti Leo;Auto;Jack;3.4;8;Sicilia
+354;07/12/2022;Gotti Leo;Auto;Jack;3.4;15;Umbria
+523;22/12/2022;Gotti Leo;Auto;Jack;3.4;17;Lazio
+73;13/01/2020;Gorgini Luca;Auto;Jack;3.4;1;Trentino Alto Adige
+187;20/01/2020;Gorgini Luca;Auto;Jack;3.4;1;Molise
+129;01/02/2020;Gorgini Luca;Auto;Jack;3.4;14;Puglia
+217;02/02/2020;Gorgini Luca;Auto;Jack;3.4;16;Abruzzo
+371;06/02/2020;Gorgini Luca;Moto;Annef;5;10;Sicilia
+176;11/02/2020;Gorgini Luca;Auto;Assad;8;16;Veneto
+576;11/02/2020;Gorgini Luca;Auto;Jack;3.4;8;Veneto
+197;27/02/2020;Gorgini Luca;Auto;Jack;3.4;15;Abruzzo
+149;06/03/2020;Gorgini Luca;Auto;Jack;3.4;5;Puglia
+1014;16/03/2020;Gorgini Luca;Auto;Jack;3.4;16;Umbria
+452;17/03/2020;Gorgini Luca;Moto;Annef;5;5;Toscana
+26;19/03/2020;Gorgini Luca;Moto;Annef;5;5;Piemonte
+331;21/03/2020;Gorgini Luca;Moto;Annef;5;14;Sicilia
+962;05/04/2020;Gorgini Luca;Moto;Annef;5;3;Friuli Venezia Giulia
+780;08/04/2020;Gorgini Luca;Moto;Annef;5;12;Campania
+945;09/04/2020;Gorgini Luca;Moto;Annef;5;1;Lombardia
+480;11/04/2020;Gorgini Luca;Moto;Annef;5;20;Campania
+490;14/04/2020;Gorgini Luca;Moto;Annef;5;13;Sardegna
+175;29/04/2020;Gorgini Luca;Auto;Assad;8;7;Valle d'Aosta
+288;07/05/2020;Gorgini Luca;Auto;Jack;3.4;7;Piemonte
+958;07/05/2020;Gorgini Luca;Auto;Jack;3.4;20;Basilicata
+955;12/05/2020;Gorgini Luca;Auto;Jack;3.4;19;Valle d'Aosta
+319;17/05/2020;Gorgini Luca;Auto;Jack;3.4;6;Calabria
+813;13/06/2020;Gorgini Luca;Auto;Jack;3.4;16;Trentino Alto Adige
+935;13/06/2020;Gorgini Luca;Moto;Annef;5;18;Valle d'Aosta
+350;20/06/2020;Gorgini Luca;Auto;Jack;3.4;19;Sardegna
+302;30/06/2020;Gorgini Luca;Moto;Annef;5;15;Friuli Venezia Giulia
+869;30/06/2020;Gorgini Luca;Auto;Jack;3.4;10;Puglia
+837;22/07/2020;Gorgini Luca;Auto;Jack;3.4;0;Abruzzo
+520;01/08/2020;Gorgini Luca;Moto;Annef;5;2;Campania
+609;29/08/2020;Gorgini Luca;Auto;Jack;3.4;8;Puglia
+233;30/08/2020;Gorgini Luca;Moto;Annef;5;1;Trentino Alto Adige
+1012;17/09/2020;Gorgini Luca;Auto;Jack;3.4;3;Toscana
+323;21/09/2020;Gorgini Luca;Moto;Annef;5;13;Lazio
+22;30/09/2020;Gorgini Luca;Auto;Jack;3.4;3;Lombardia
+894;30/09/2020;Gorgini Luca;Auto;Jack;3.4;7;Umbria
+605;01/10/2020;Gorgini Luca;Auto;Jack;3.4;10;Lombardia
+114;02/10/2020;Gorgini Luca;Auto;Jack;3.4;14;Umbria
+235;05/10/2020;Gorgini Luca;Auto;Assad;8;4;Valle d'Aosta
+311;19/10/2020;Gorgini Luca;Auto;Pium;10.78;4;Sicilia
+832;24/10/2020;Gorgini Luca;Moto;Annef;5;2;Toscana
+954;25/10/2020;Gorgini Luca;Auto;Jack;3.4;7;Umbria
+1003;25/10/2020;Gorgini Luca;Auto;Jack;3.4;7;Lazio
+752;08/11/2020;Gorgini Luca;Auto;Jack;3.4;5;Toscana
+113;18/11/2020;Gorgini Luca;Auto;Jack;3.4;4;Trentino Alto Adige
+127;24/11/2020;Gorgini Luca;Auto;Jack;3.4;4;Molise
+241;04/12/2020;Gorgini Luca;Moto;Annef;5;18;Emilia Romagna
+1010;08/12/2020;Gorgini Luca;Moto;Annef;5;15;Sardegna
+781;11/12/2020;Gorgini Luca;Auto;Jack;3.4;20;Emilia Romagna
+631;18/12/2020;Gorgini Luca;Auto;Jack;3.4;2;Sicilia
+692;04/01/2021;Gorgini Luca;Auto;Jack;3.4;6;Toscana
+403;05/01/2021;Gorgini Luca;Moto;Annef;5;16;Lazio
+116;06/01/2021;Gorgini Luca;Auto;Assad;8;17;Veneto
+53;07/01/2021;Gorgini Luca;Auto;Jack;3.4;4;Trentino Alto Adige
+1022;16/02/2021;Gorgini Luca;Auto;Jack;3.4;19;Friuli Venezia Giulia
+1023;16/02/2021;Gorgini Luca;Moto;Annef;5;8;Lazio
+232;20/02/2021;Gorgini Luca;Auto;Jack;3.4;2;Toscana
+589;27/02/2021;Gorgini Luca;Auto;Assad;8;0;Puglia
+735;06/03/2021;Gorgini Luca;Auto;Jack;3.4;20;Valle d'Aosta
+14;10/03/2021;Gorgini Luca;Auto;Jack;3.4;4;Basilicata
+697;16/03/2021;Gorgini Luca;Moto;Annef;5;13;Abruzzo
+295;21/03/2021;Gorgini Luca;Auto;Jack;3.4;2;Valle d'Aosta
+181;23/03/2021;Gorgini Luca;Moto;Annef;5;13;Emilia Romagna
+843;26/03/2021;Gorgini Luca;Moto;Annef;5;7;Lazio
+431;27/03/2021;Gorgini Luca;Moto;Pium;10.45;2;Sicilia
+249;04/04/2021;Gorgini Luca;Moto;Annef;5;18;Puglia
+92;05/04/2021;Gorgini Luca;Auto;Jack;3.4;7;Toscana
+1029;15/04/2021;Gorgini Luca;Auto;Jack;3.4;1;Puglia
+348;17/04/2021;Gorgini Luca;Auto;Jack;3.4;5;Piemonte
+32;02/05/2021;Gorgini Luca;Moto;Annef;5;10;Trentino Alto Adige
+216;11/05/2021;Gorgini Luca;Auto;Jack;3.4;18;Veneto
+529;12/05/2021;Gorgini Luca;Auto;Assad;8;1;Puglia
+648;21/05/2021;Gorgini Luca;Auto;Assad;8;5;Piemonte
+186;25/05/2021;Gorgini Luca;Auto;Jack;3.4;4;Marche
+924;03/06/2021;Gorgini Luca;Moto;Annef;5;19;Liguria
+607;05/06/2021;Gorgini Luca;Auto;Jack;3.4;3;Molise
+396;06/06/2021;Gorgini Luca;Auto;Pium;10.78;20;Veneto
+994;21/06/2021;Gorgini Luca;Moto;Annef;5;9;Umbria
+54;01/07/2021;Gorgini Luca;Auto;Jack;3.4;16;Umbria
+112;04/07/2021;Gorgini Luca;Auto;Jack;3.4;6;Toscana
+953;12/07/2021;Gorgini Luca;Auto;Jack;3.4;8;Trentino Alto Adige
+667;17/07/2021;Gorgini Luca;Auto;Jack;3.4;0;Molise
+1004;22/07/2021;Gorgini Luca;Moto;Annef;5;14;Liguria
+290;24/07/2021;Gorgini Luca;Auto;Jack;3.4;9;Sardegna
+177;25/07/2021;Gorgini Luca;Auto;Jack;3.4;15;Abruzzo
+922;05/08/2021;Gorgini Luca;Moto;Annef;5;7;Friuli Venezia Giulia
+787;09/08/2021;Gorgini Luca;Auto;Pium;10.78;16;Molise
+649;11/08/2021;Gorgini Luca;Auto;Jack;3.4;2;Puglia
+173;13/08/2021;Gorgini Luca;Auto;Jack;3.4;5;Trentino Alto Adige
+258;16/08/2021;Gorgini Luca;Auto;Jack;3.4;8;Basilicata
+721;16/08/2021;Gorgini Luca;Moto;Annef;5;4;Emilia Romagna
+730;19/08/2021;Gorgini Luca;Auto;Jack;3.4;12;Sardegna
+457;28/08/2021;Gorgini Luca;Moto;Annef;5;1;Abruzzo
+184;30/08/2021;Gorgini Luca;Moto;Annef;5;17;Liguria
+1001;16/09/2021;Gorgini Luca;Auto;Assad;8;6;Emilia Romagna
+926;02/10/2021;Gorgini Luca;Auto;Jack;3.4;9;Marche
+76;12/10/2021;Gorgini Luca;Auto;Jack;3.4;0;Veneto
+70;20/10/2021;Gorgini Luca;Auto;Jack;3.4;10;Sardegna
+103;20/10/2021;Gorgini Luca;Moto;Annef;5;6;Lazio
+252;09/11/2021;Gorgini Luca;Auto;Jack;3.4;16;Toscana
+134;12/11/2021;Gorgini Luca;Auto;Jack;3.4;18;Umbria
+170;17/11/2021;Gorgini Luca;Auto;Jack;3.4;20;Sardegna
+273;30/11/2021;Gorgini Luca;Moto;Annef;5;0;Trentino Alto Adige
+246;02/12/2021;Gorgini Luca;Auto;Jack;3.4;0;Marche
+662;03/12/2021;Gorgini Luca;Moto;Annef;5;3;Friuli Venezia Giulia
+534;05/12/2021;Gorgini Luca;Moto;Annef;5;8;Umbria
+772;08/12/2021;Gorgini Luca;Moto;Annef;5;4;Toscana
+409;18/12/2021;Gorgini Luca;Auto;Jack;3.4;17;Puglia
+896;19/12/2021;Gorgini Luca;Auto;Jack;3.4;2;Veneto
+1013;26/12/2021;Gorgini Luca;Auto;Jack;3.4;3;Trentino Alto Adige
+812;17/01/2022;Gorgini Luca;Moto;Annef;5;6;Toscana
+943;20/01/2022;Gorgini Luca;Auto;Assad;8;10;Lazio
+179;31/01/2022;Gorgini Luca;Moto;Annef;5;11;Calabria
+688;31/01/2022;Gorgini Luca;Auto;Jack;3.4;11;Piemonte
+172;05/02/2022;Gorgini Luca;Auto;Jack;3.4;15;Toscana
+593;12/02/2022;Gorgini Luca;Moto;Annef;5;13;Trentino Alto Adige
+18;24/02/2022;Gorgini Luca;Moto;Annef;5;5;Emilia Romagna
+536;28/02/2022;Gorgini Luca;Moto;Annef;5;5;Veneto
+230;26/03/2022;Gorgini Luca;Auto;Jack;3.4;15;Sardegna
+865;30/03/2022;Gorgini Luca;Moto;Annef;5;1;Lombardia
+503;01/04/2022;Gorgini Luca;Auto;Jack;3.4;19;Lazio
+174;09/04/2022;Gorgini Luca;Moto;Annef;5;8;Umbria
+43;10/04/2022;Gorgini Luca;Auto;Jack;3.4;18;Lazio
+899;20/04/2022;Gorgini Luca;Auto;Jack;3.4;12;Calabria
+498;26/04/2022;Gorgini Luca;Moto;Annef;5;11;Basilicata
+711;06/05/2022;Gorgini Luca;Moto;Annef;5;3;Sicilia
+52;14/05/2022;Gorgini Luca;Auto;Jack;3.4;16;Toscana
+866;11/06/2022;Gorgini Luca;Moto;Annef;5;3;Marche
+876;17/06/2022;Gorgini Luca;Moto;Annef;5;4;Veneto
+434;26/07/2022;Gorgini Luca;Moto;Annef;5;0;Umbria
+728;27/07/2022;Gorgini Luca;Auto;Jack;3.4;16;Piemonte
+137;30/07/2022;Gorgini Luca;Auto;Jack;3.4;15;Abruzzo
+562;01/08/2022;Gorgini Luca;Moto;Pium;10.45;13;Friuli Venezia Giulia
+595;02/08/2022;Gorgini Luca;Moto;Annef;5;4;Valle d'Aosta
+771;03/08/2022;Gorgini Luca;Moto;Annef;5;8;Sicilia
+195;04/08/2022;Gorgini Luca;Auto;Jack;3.4;7;Valle d'Aosta
+873;21/08/2022;Gorgini Luca;Auto;Pium;10.78;14;Trentino Alto Adige
+276;02/09/2022;Gorgini Luca;Moto;Annef;5;6;Veneto
+715;07/09/2022;Gorgini Luca;Moto;Annef;5;8;Valle d'Aosta
+986;08/09/2022;Gorgini Luca;Moto;Annef;5;16;Marche
+809;01/10/2022;Gorgini Luca;Auto;Jack;3.4;19;Puglia
+236;03/10/2022;Gorgini Luca;Auto;Jack;3.4;17;Veneto
+560;10/10/2022;Gorgini Luca;Moto;Annef;5;1;Campania
+858;13/10/2022;Gorgini Luca;Moto;Annef;5;5;Basilicata
+1002;10/11/2022;Gorgini Luca;Auto;Assad;8;11;Friuli Venezia Giulia
+769;19/11/2022;Gorgini Luca;Moto;Annef;5;1;Puglia
+450;22/11/2022;Gorgini Luca;Moto;Annef;5;10;Sardegna
+36;24/11/2022;Gorgini Luca;Auto;Pium;10.78;1;Abruzzo
+291;24/11/2022;Gorgini Luca;Auto;Jack;3.4;17;Sicilia
+840;06/12/2022;Gorgini Luca;Auto;Jack;3.4;17;Campania
+120;12/12/2022;Gorgini Luca;Moto;Annef;5;6;Campania
+420;15/12/2022;Gorgini Luca;Moto;Annef;5;4;Campania
+839;15/12/2022;Gorgini Luca;Moto;Annef;5;7;Calabria
+654;26/12/2022;Gorgini Luca;Moto;Annef;5;4;Umbria
+588;27/12/2022;Gorgini Luca;Auto;Assad;8;4;Piemonte
+429;03/01/2020;Fove Anna;Moto;Annef;5;15;Puglia
+651;10/01/2020;Fove Anna;Moto;Annef;5;0;Sicilia
+776;10/01/2020;Fove Anna;Auto;Jack;3.4;14;Veneto
+985;17/01/2020;Fove Anna;Auto;Jack;3.4;17;Lombardia
+778;23/01/2020;Fove Anna;Auto;Jack;3.4;14;Basilicata
+504;28/01/2020;Fove Anna;Moto;Pium;10.45;9;Liguria
+925;31/01/2020;Fove Anna;Moto;Bour;12;20;Lombardia
+361;01/02/2020;Fove Anna;Moto;Annef;5;11;Emilia Romagna
+263;06/02/2020;Fove Anna;Auto;Jack;3.4;15;Lazio
+265;08/02/2020;Fove Anna;Moto;Cele;6.5;4;Lombardia
+443;13/02/2020;Fove Anna;Moto;Pium;10.45;4;Lazio
+905;18/02/2020;Fove Anna;Auto;Jack;3.4;4;Lombardia
+83;21/02/2020;Fove Anna;Moto;Cele;6.5;3;Lazio
+404;21/02/2020;Fove Anna;Moto;Annef;5;13;Liguria
+941;22/02/2020;Fove Anna;Moto;Annef;5;10;Emilia Romagna
+61;24/02/2020;Fove Anna;Moto;Annef;5;13;Emilia Romagna
+182;14/03/2020;Fove Anna;Moto;Annef;5;1;Friuli Venezia Giulia
+328;17/03/2020;Fove Anna;Moto;Annef;5;0;Piemonte
+82;20/03/2020;Fove Anna;Auto;Jack;3.4;14;Friuli Venezia Giulia
+442;22/03/2020;Fove Anna;Auto;Jack;3.4;17;Friuli Venezia Giulia
+856;26/03/2020;Fove Anna;Moto;Cele;6.5;14;Veneto
+222;27/03/2020;Fove Anna;Auto;Jack;3.4;18;Friuli Venezia Giulia
+494;03/04/2020;Fove Anna;Auto;Jack;3.4;0;Umbria
+470;11/04/2020;Fove Anna;Auto;Assad;8;19;Sardegna
+694;15/04/2020;Fove Anna;Auto;Jack;3.4;2;Umbria
+142;17/04/2020;Fove Anna;Auto;Jack;3.4;4;Friuli Venezia Giulia
+1000;23/04/2020;Fove Anna;Moto;Annef;5;19;Campania
+375;05/05/2020;Fove Anna;Moto;Pium;10.45;3;Valle d'Aosta
+564;16/05/2020;Fove Anna;Auto;Jack;3.4;19;Liguria
+501;17/05/2020;Fove Anna;Auto;Jack;3.4;1;Emilia Romagna
+938;28/05/2020;Fove Anna;Auto;Jack;3.4;7;Basilicata
+202;31/05/2020;Fove Anna;Moto;Cele;6.5;8;Friuli Venezia Giulia
+991;06/06/2020;Fove Anna;Auto;Pium;10.78;10;Sicilia
+635;11/06/2020;Fove Anna;Auto;Jack;3.4;19;Valle d'Aosta
+135;23/06/2020;Fove Anna;Auto;Jack;3.4;0;Valle d'Aosta
+521;25/06/2020;Fove Anna;Moto;Annef;5;20;Emilia Romagna
+68;26/06/2020;Fove Anna;Auto;Jack;3.4;16;Piemonte
+915;26/06/2020;Fove Anna;Moto;Pium;10.45;12;Valle d'Aosta
+30;01/07/2020;Fove Anna;Moto;Cele;6.5;11;Toscana
+737;01/07/2020;Fove Anna;Moto;Cele;6.5;15;Abruzzo
+658;03/07/2020;Fove Anna;Auto;Jack;3.4;3;Basilicata
+999;06/07/2020;Fove Anna;Auto;Jack;3.4;7;Calabria
+44;08/07/2020;Fove Anna;Auto;Jack;3.4;2;Liguria
+1020;11/07/2020;Fove Anna;Auto;Jack;3.4;13;Campania
+656;13/07/2020;Fove Anna;Moto;Annef;5;10;Veneto
+334;21/07/2020;Fove Anna;Auto;Blacky;4;17;Umbria
+192;27/07/2020;Fove Anna;Auto;Jack;3.4;11;Toscana
+118;01/08/2020;Fove Anna;Auto;Jack;3.4;16;Basilicata
+492;01/08/2020;Fove Anna;Auto;Jack;3.4;19;Toscana
+672;01/08/2020;Fove Anna;Auto;Jack;3.4;11;Toscana
+710;01/08/2020;Fove Anna;Moto;Annef;5;9;Sardegna
+314;03/08/2020;Fove Anna;Moto;Pium;10.45;15;Umbria
+617;09/08/2020;Fove Anna;Auto;Jack;3.4;20;Abruzzo
+634;11/08/2020;Fove Anna;Auto;Jack;3.4;15;Umbria
+901;14/08/2020;Fove Anna;Moto;Annef;5;2;Emilia Romagna
+388;18/08/2020;Fove Anna;Moto;Annef;5;14;Piemonte
+476;19/08/2020;Fove Anna;Moto;Annef;5;17;Veneto
+506;21/08/2020;Fove Anna;Moto;Annef;5;17;Marche
+378;26/08/2020;Fove Anna;Moto;Cele;6.5;19;Basilicata
+556;05/09/2020;Fove Anna;Auto;Jack;3.4;14;Veneto
+836;05/09/2020;Fove Anna;Auto;Jack;3.4;8;Veneto
+545;15/09/2020;Fove Anna;Auto;Jack;3.4;2;Lombardia
+460;19/09/2020;Fove Anna;Moto;Cele;6.5;13;Campania
+462;19/09/2020;Fove Anna;Moto;Annef;5;5;Friuli Venezia Giulia
+572;21/09/2020;Fove Anna;Auto;Jack;3.4;3;Toscana
+845;23/09/2020;Fove Anna;Moto;Bour;12;8;Lombardia
+803;26/09/2020;Fove Anna;Moto;Annef;5;1;Lazio
+590;07/10/2020;Fove Anna;Auto;Jack;3.4;2;Sardegna
+690;07/10/2020;Fove Anna;Auto;Jack;3.4;8;Sardegna
+215;12/10/2020;Fove Anna;Auto;Pium;10.78;17;Valle d'Aosta
+57;13/10/2020;Fove Anna;Auto;Assad;8;100;Abruzzo
+128;14/10/2020;Fove Anna;Auto;Jack;3.4;16;Piemonte
+719;15/10/2020;Fove Anna;Auto;Jack;3.4;9;Calabria
+918;19/10/2020;Fove Anna;Moto;Maio;12;6;Basilicata
+847;20/10/2020;Fove Anna;Moto;Pium;10.45;3;Molise
+117;01/11/2020;Fove Anna;Auto;Assad;8;12;Abruzzo
+974;01/11/2020;Fove Anna;Moto;Cele;6.5;0;Umbria
+318;22/11/2020;Fove Anna;Moto;Cele;6.5;5;Basilicata
+502;27/11/2020;Fove Anna;Moto;Cele;6.5;15;Friuli Venezia Giulia
+394;07/12/2020;Fove Anna;Moto;Annef;5;3;Umbria
+511;09/12/2020;Fove Anna;Moto;Cele;6.5;15;Sicilia
+147;19/12/2020;Fove Anna;Moto;Cele;6.5;3;Molise
+67;21/12/2020;Fove Anna;Moto;Annef;5;9;Molise
+51;28/12/2020;Fove Anna;Auto;Jack;3.4;15;Sicilia
+718;05/01/2021;Fove Anna;Auto;Jack;3.4;20;Basilicata
+910;05/01/2021;Fove Anna;Moto;Cele;6.5;0;Sardegna
+166;06/01/2021;Fove Anna;Moto;Annef;5;19;Marche
+438;06/01/2021;Fove Anna;Moto;Cele;6.5;18;Basilicata
+530;06/01/2021;Fove Anna;Auto;Assad;8;12;Sardegna
+751;10/01/2021;Fove Anna;Auto;Pium;10.78;10;Sicilia
+362;13/01/2021;Fove Anna;Moto;Annef;5;19;Friuli Venezia Giulia
+895;20/01/2021;Fove Anna;Auto;Jack;3.4;18;Valle d'Aosta
+97;22/01/2021;Fove Anna;Auto;Jack;3.4;2;Abruzzo
+886;22/01/2021;Fove Anna;Moto;Annef;5;15;Marche
+970;22/01/2021;Fove Anna;Moto;Annef;5;11;Sardegna
+620;03/02/2021;Fove Anna;Auto;Pium;10.78;10;Campania
+146;11/02/2021;Fove Anna;Auto;Jack;3.4;20;Marche
+660;11/02/2021;Fove Anna;Auto;Jack;3.4;4;Campania
+226;26/02/2021;Fove Anna;Moto;Annef;5;7;Marche
+786;28/02/2021;Fove Anna;Moto;Pium;10.45;7;Marche
+345;04/03/2021;Fove Anna;Moto;Annef;5;16;Lombardia
+1024;07/03/2021;Fove Anna;Moto;Cele;6.5;20;Liguria
+40;11/03/2021;Fove Anna;Auto;Jack;3.4;12;Campania
+445;15/03/2021;Fove Anna;Moto;Annef;5;18;Lombardia
+798;16/03/2021;Fove Anna;Moto;Annef;5;16;Basilicata
+154;22/03/2021;Fove Anna;Auto;Pium;10.78;10;Umbria
+942;28/03/2021;Fove Anna;Auto;Assad;8;18;Friuli Venezia Giulia
+604;29/03/2021;Fove Anna;Auto;Jack;3.4;20;Liguria
+884;07/04/2021;Fove Anna;Auto;Assad;8;3;Liguria
+237;08/04/2021;Fove Anna;Moto;Annef;5;14;Abruzzo
+768;01/05/2021;Fove Anna;Moto;Annef;5;4;Piemonte
+606;14/05/2021;Fove Anna;Auto;Jack;3.4;10;Marche
+674;18/05/2021;Fove Anna;Moto;Cele;6.5;17;Umbria
+792;26/05/2021;Fove Anna;Auto;Jack;3.4;14;Toscana
+124;29/05/2021;Fove Anna;Moto;Annef;5;5;Liguria
+20;30/05/2021;Fove Anna;Auto;Jack;3.4;17;Lazio
+344;31/05/2021;Fove Anna;Moto;Annef;5;20;Liguria
+338;02/06/2021;Fove Anna;Auto;Jack;3.4;5;Basilicata
+976;09/06/2021;Fove Anna;Moto;Pium;10.45;5;Veneto
+569;18/06/2021;Fove Anna;Auto;Jack;3.4;3;Puglia
+971;08/07/2021;Fove Anna;Moto;Cele;6.5;0;Sicilia
+601;09/07/2021;Fove Anna;Auto;Jack;3.4;13;Emilia Romagna
+969;11/07/2021;Fove Anna;Auto;Jack;3.4;20;Puglia
+25;17/07/2021;Fove Anna;Auto;Jack;3.4;15;Molise
+557;17/07/2021;Fove Anna;Auto;Jack;3.4;14;Abruzzo
+739;26/07/2021;Fove Anna;Auto;Jack;3.4;5;Calabria
+936;03/08/2021;Fove Anna;Auto;Jack;3.4;19;Veneto
+385;17/08/2021;Fove Anna;Auto;Jack;3.4;9;Lombardia
+740;19/08/2021;Fove Anna;Moto;Annef;5;8;Campania
+548;27/08/2021;Fove Anna;Auto;Jack;3.4;4;Piemonte
+880;16/09/2021;Fove Anna;Auto;Jack;3.4;6;Campania
+257;19/09/2021;Fove Anna;Moto;Pium;10.45;0;Abruzzo
+384;22/09/2021;Fove Anna;Moto;Cele;6.5;12;Liguria
+619;22/10/2021;Fove Anna;Moto;Cele;6.5;15;Calabria
+115;24/10/2021;Fove Anna;Moto;Annef;5;13;Valle d'Aosta
+301;25/10/2021;Fove Anna;Moto;Annef;5;10;Emilia Romagna
+381;26/10/2021;Fove Anna;Moto;Cele;6.5;15;Emilia Romagna
+478;28/10/2021;Fove Anna;Moto;Annef;5;15;Basilicata
+125;01/11/2021;Fove Anna;Moto;Annef;5;18;Lombardia
+38;11/11/2021;Fove Anna;Auto;Jack;3.4;13;Calabria
+855;15/11/2021;Fove Anna;Auto;Jack;3.4;3;Valle d'Aosta
+1025;29/11/2021;Fove Anna;Auto;Jack;3.4;17;Lombardia
+56;03/12/2021;Fove Anna;Moto;Annef;5;19;Veneto
+723;03/12/2021;Fove Anna;Auto;Jack;3.4;1;Lazio
+491;11/12/2021;Fove Anna;Moto;Bour;12;5;Sicilia
+190;15/12/2021;Fove Anna;Moto;Annef;5;1;Sardegna
+717;15/12/2021;Fove Anna;Auto;Jack;3.4;15;Abruzzo
+122;18/12/2021;Fove Anna;Moto;Annef;5;1;Friuli Venezia Giulia
+675;20/12/2021;Fove Anna;Auto;Blacky;4;17;Valle d'Aosta
+321;29/12/2021;Fove Anna;Moto;Cele;6.5;2;Emilia Romagna
+555;04/01/2022;Fove Anna;Moto;Cele;6.5;20;Valle d'Aosta
+822;09/01/2022;Fove Anna;Auto;Jack;3.4;4;Friuli Venezia Giulia
+517;13/01/2022;Fove Anna;Auto;Jack;3.4;10;Abruzzo
+841;30/01/2022;Fove Anna;Auto;Jack;3.4;11;Emilia Romagna
+927;01/02/2022;Fove Anna;Auto;Jack;3.4;17;Molise
+106;06/02/2022;Fove Anna;Moto;Bour;12;16;Marche
+196;12/02/2022;Fove Anna;Moto;Pium;10.45;16;Veneto
+885;13/02/2022;Fove Anna;Auto;Jack;3.4;3;Lombardia
+78;15/02/2022;Fove Anna;Auto;Jack;3.4;0;Basilicata
+611;16/02/2022;Fove Anna;Auto;Jack;3.4;12;Sicilia
+663;22/02/2022;Fove Anna;Auto;Jack;3.4;16;Lazio
+515;27/02/2022;Fove Anna;Auto;Jack;3.4;13;Valle d'Aosta
+85;10/03/2022;Fove Anna;Auto;Jack;3.4;19;Lombardia
+574;14/03/2022;Fove Anna;Auto;Jack;3.4;12;Umbria
+11;17/03/2022;Fove Anna;Auto;Jack;3.4;12;Abruzzo
+200;19/03/2022;Fove Anna;Auto;Jack;3.4;4;Campania
+386;05/04/2022;Fove Anna;Moto;Pium;10.45;1;Marche
+639;07/04/2022;Fove Anna;Moto;Annef;5;15;Calabria
+1027;28/04/2022;Fove Anna;Moto;Cele;6.5;15;Molise
+835;09/05/2022;Fove Anna;Auto;Jack;3.4;11;Valle d'Aosta
+636;26/05/2022;Fove Anna;Auto;Jack;3.4;1;Veneto
+326;15/06/2022;Fove Anna;Moto;Pium;10.45;10;Marche
+86;22/06/2022;Fove Anna;Auto;Jack;3.4;7;Marche
+441;26/06/2022;Fove Anna;Moto;Bour;12;7;Emilia Romagna
+828;27/06/2022;Fove Anna;Moto;Annef;5;0;Piemonte
+679;01/07/2022;Fove Anna;Moto;Annef;5;13;Calabria
+666;02/07/2022;Fove Anna;Auto;Pium;10.78;16;Marche
+139;09/07/2022;Fove Anna;Auto;Jack;3.4;20;Calabria
+437;11/07/2022;Fove Anna;Auto;Jack;3.4;16;Abruzzo
+579;14/07/2022;Fove Anna;Moto;Annef;5;6;Calabria
+513;28/07/2022;Fove Anna;Auto;Jack;3.4;17;Trentino Alto Adige
+944;28/07/2022;Fove Anna;Auto;Jack;3.4;10;Liguria
+285;01/08/2022;Fove Anna;Moto;Annef;5;13;Lombardia
+329;01/08/2022;Fove Anna;Moto;Maio;12;20;Puglia
+231;07/08/2022;Fove Anna;Auto;Jack;3.4;1;Sicilia
+851;09/08/2022;Fove Anna;Auto;Jack;3.4;16;Sicilia
+157;14/08/2022;Fove Anna;Moto;Bour;12;14;Abruzzo
+997;19/08/2022;Fove Anna;Auto;Jack;3.4;15;Abruzzo
+84;26/08/2022;Fove Anna;Auto;Jack;3.4;8;Liguria
+875;02/09/2022;Fove Anna;Moto;Annef;5;18;Valle d'Aosta
+262;16/09/2022;Fove Anna;Moto;Cele;6.5;7;Friuli Venezia Giulia
+793;16/09/2022;Fove Anna;Moto;Cele;6.5;18;Trentino Alto Adige
+546;18/09/2022;Fove Anna;Auto;Jack;3.4;17;Marche
+266;08/10/2022;Fove Anna;Auto;Pium;10.78;6;Marche
+713;08/10/2022;Fove Anna;Moto;Annef;5;14;Trentino Alto Adige
+952;27/10/2022;Fove Anna;Moto;Annef;5;6;Toscana
+487;30/10/2022;Fove Anna;Auto;Jack;3.4;4;Molise
+903;05/11/2022;Fove Anna;Moto;Pium;10.45;1;Lazio
+59;07/11/2022;Fove Anna;Auto;Jack;3.4;16;Calabria
+920;05/12/2022;Fove Anna;Auto;Jack;3.4;6;Campania
+418;12/12/2022;Fove Anna;Moto;Annef;5;9;Basilicata
+777;23/12/2022;Fove Anna;Auto;Jack;3.4;1;Abruzzo
